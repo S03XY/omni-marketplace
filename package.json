@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "@connext/nxtp-contracts": "^0.2.1-beta.13",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/contracts-upgradeable": "^4.8.0",
+    "dotenv": "^16.0.3"
+  }
+}
